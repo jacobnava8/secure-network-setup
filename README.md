@@ -8,6 +8,7 @@ The goal was to **upgrade IT systems with Virtual Machines**, configure firewall
 
 ## 📂 Project Structure
 📂 secure-network-setup
+
 ├── configs/ # VM configs, firewall rules, OS settings
 
 ├── docs/ # Network diagrams, screenshots, Wireshark captures
