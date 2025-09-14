@@ -1,0 +1,52 @@
+Kali Untrusted
+IP : 172.30.0.10
+
+CEO PC
+OS Version - CentOS Release 6.4 (Final), Kernel Linux 2.6.32-358.el6.x86_64, GNOME 2.28.2
+IP Address - 192.168.0.15
+Subnet Mask - 255.255.255.0
+Default Gateway Address - 192.168.0.1
+DNS Server - 10.200.0.11
+
+Webserver 
+OS Version - CentOS Release 6.4 (Final), Kernel Linux 2.6.32-358.el6.x86_64, GNOME 2.28.2
+IP Address - 10.200.0.12
+Subnet Mask - 255.255.255.248
+Default Gateway Address - 10.200.0.9
+DNS Server - 10.200.0.11
+
+Open Ports:
+21/tcp   open  ftp
+22/tcp   open  ssh
+23/tcp   open  telnet
+25/tcp   open  smtp
+53/tcp   open  domain
+80/tcp   open  http
+111/tcp  open  rpcbind
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+512/tcp  open  exec
+513/tcp  open  login
+514/tcp  open  shell
+1099/tcp open  rmiregistry
+1524/tcp open  ingreslock
+2049/tcp open  nfs
+2121/tcp open  ccproxy-ftp
+3306/tcp open  mysql
+5432/tcp open  postgresql
+5900/tcp open  vnc
+6000/tcp open  X11
+6667/tcp open  irc
+8009/tcp open  ajp13
+8180/tcp open  unknown
+
+DNS Server
+OS Version - CentOS Release 6.4 (Final), Kernel Linux 2.6.32-358.el6.x86_64, GNOME 2.28.2
+IP Address - 10.200.0.11
+Subnet Mask - 255.255.255.248
+Default Gateway Address - 10.200.0.9
+DNS Server - 10.200.0.11
+
+Open Ports:
+22/tcp open  ssh
+53/tcp open  domain
