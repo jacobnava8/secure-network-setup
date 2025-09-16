@@ -10,8 +10,11 @@ The goal was to **upgrade IT systems** by ensuring proper configuration of firew
 
 ## 📂 Project Structure
 📂 secure-network-setup  
-├── configs/   # VM configs, firewall rules, OS settings  
-├── docs/      # Network diagrams, Wireshark captures, screenshots  
+
+├── configs/   # VM configs, firewall rules, OS settings
+
+├── docs/      # Network diagrams, Wireshark captures, screenshots
+
 └── README.md  
 
 ---
